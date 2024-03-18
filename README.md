@@ -1,4 +1,4 @@
-# Octopus-crypto-miner
+# Blocktopus miner
 Reads the current electricity price from the Octopus agile tariff and enables crypto mining if the electricity price is below a threshold.
 ### Octopus agile
 Octopus agile is a tariff which gives you exposure to wholesale market price which settles every 30 minutes in the UK. During times of oversupply (often caused by renewables) electricity prices can fall extremely low, or even fall below zero.
